@@ -1,5 +1,5 @@
 {
-  "name": "sqlite3",
+  "name": "@fdmatte/sqlite3",
   "description": "Asynchronous, non-blocking SQLite3 bindings",
   "version": "4.0.6",
   "homepage": "http://github.com/mapbox/node-sqlite3",
